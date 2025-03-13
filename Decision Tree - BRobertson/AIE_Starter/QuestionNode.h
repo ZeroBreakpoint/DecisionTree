@@ -2,6 +2,7 @@
 #include <memory>
 #include "Condition.h"
 #include "Decision.h"
+#include "DistanceCondition.h"
 
 class QuestionNode : public Decision
 {

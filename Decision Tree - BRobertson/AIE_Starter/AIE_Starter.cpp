@@ -13,13 +13,10 @@
 #include "GoToPointBehaviour.h"
 #include "WanderBehaviour.h"
 #include "FollowBehaviour.h"
-#include "SelectorBehaviour.h"
-#include "FiniteStateMachine.h"
 #include "DistanceCondition.h"
 #include "DecisionTree.h"
 #include "ActionNode.h"
 #include "QuestionNode.h"
-#include "State.h"
 #include <cstdlib>
 #include <ctime>
 

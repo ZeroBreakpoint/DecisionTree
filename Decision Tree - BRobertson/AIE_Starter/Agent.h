@@ -7,7 +7,6 @@
 #include "NodeMap.h"
 #include "Behaviour.h"
 #include "FollowBehaviour.h"
-#include "FiniteStateMachine.h"
 
 class Agent
 {

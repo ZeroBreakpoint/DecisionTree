@@ -149,15 +149,12 @@
     <ClCompile Include="Decision.cpp" />
     <ClCompile Include="DecisionTree.cpp" />
     <ClCompile Include="DistanceCondition.cpp" />
-    <ClCompile Include="FiniteStateMachine.cpp" />
     <ClCompile Include="FollowBehaviour.cpp" />
     <ClCompile Include="GoToPointBehaviour.cpp" />
     <ClCompile Include="NodeMap.cpp" />
     <ClCompile Include="PathAgent.cpp" />
     <ClCompile Include="Pathfinding.cpp" />
     <ClCompile Include="QuestionNode.cpp" />
-    <ClCompile Include="SelectorBehaviour.cpp" />
-    <ClCompile Include="State.cpp" />
     <ClCompile Include="WanderBehaviour.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -171,15 +168,12 @@
     <ClInclude Include="Decision.h" />
     <ClInclude Include="DecisionTree.h" />
     <ClInclude Include="DistanceCondition.h" />
-    <ClInclude Include="FiniteStateMachine.h" />
     <ClInclude Include="FollowBehaviour.h" />
     <ClInclude Include="GoToPointBehaviour.h" />
     <ClInclude Include="NodeMap.h" />
     <ClInclude Include="PathAgent.h" />
     <ClInclude Include="Pathfinding.h" />
     <ClInclude Include="QuestionNode.h" />
-    <ClInclude Include="SelectorBehaviour.h" />
-    <ClInclude Include="State.h" />
     <ClInclude Include="WanderBehaviour.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

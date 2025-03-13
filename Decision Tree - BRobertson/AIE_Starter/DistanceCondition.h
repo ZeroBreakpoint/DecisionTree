@@ -1,5 +1,12 @@
 #pragma once
 #include "Condition.h"
+
+class Condition
+{
+public:
+    virtual bool IsTrue(Agent* agent) = 0;
+};
+
 class DistanceCondition : public Condition
 {
 private:
