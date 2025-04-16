@@ -7,5 +7,5 @@ This repository showcases my game implemented in C++ using the Raylib graphics l
 - **Real-world Environment Simulation**: Simulates a game-like environment where the agent interacts with its surroundings based on predefined rules and logic.
 
 ## Controls
-- **Left Click**: Sets the starting node for the player controlled agent.
+- **Left Click**: Sets the start node for the player controlled agent.
 - **Right Click**: Sets the end nodefor the player controlled agent.
