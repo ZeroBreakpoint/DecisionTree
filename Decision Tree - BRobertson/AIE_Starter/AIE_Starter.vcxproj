@@ -144,17 +144,12 @@
     <ClCompile Include="ActionNode.cpp" />
     <ClCompile Include="Agent.cpp" />
     <ClCompile Include="AIE_Starter.cpp" />
-    <ClCompile Include="Behaviour.cpp" />
-    <ClCompile Include="Condition.cpp" />
-    <ClCompile Include="Decision.cpp" />
-    <ClCompile Include="DecisionTree.cpp" />
     <ClCompile Include="DistanceCondition.cpp" />
     <ClCompile Include="FollowBehaviour.cpp" />
     <ClCompile Include="GoToPointBehaviour.cpp" />
     <ClCompile Include="NodeMap.cpp" />
     <ClCompile Include="PathAgent.cpp" />
     <ClCompile Include="Pathfinding.cpp" />
-    <ClCompile Include="QuestionNode.cpp" />
     <ClCompile Include="WanderBehaviour.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -164,7 +159,6 @@
     <ClInclude Include="ActionNode.h" />
     <ClInclude Include="Agent.h" />
     <ClInclude Include="Behaviour.h" />
-    <ClInclude Include="Condition.h" />
     <ClInclude Include="Decision.h" />
     <ClInclude Include="DecisionTree.h" />
     <ClInclude Include="DistanceCondition.h" />

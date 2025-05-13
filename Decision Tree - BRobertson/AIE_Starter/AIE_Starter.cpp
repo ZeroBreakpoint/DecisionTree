@@ -27,9 +27,9 @@ int main(int argc, char* argv[])
     int screenWidth = 598;
     int screenHeight = 398;
 
-    InitWindow(screenWidth, screenHeight, "Decision Tree - Assessment 4 - Bradley Robertson");
+    InitWindow(screenWidth, screenHeight, "Decision Tree - Bradley Robertson");
 
-    SetTargetFPS(60);
+    SetTargetFPS(120);
     // Seed the random number generator
     std::srand(static_cast<unsigned int>(std::time(0)));
 

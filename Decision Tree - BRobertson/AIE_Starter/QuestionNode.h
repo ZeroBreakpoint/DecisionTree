@@ -1,6 +1,5 @@
 #pragma once
 #include <memory>
-#include "Condition.h"
 #include "Decision.h"
 #include "DistanceCondition.h"
 

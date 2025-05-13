@@ -1,17 +1,12 @@
 ﻿  ActionNode.cpp
   Agent.cpp
   AIE_Starter.cpp
-  Behaviour.cpp
-  Condition.cpp
-  Decision.cpp
-  DecisionTree.cpp
   DistanceCondition.cpp
   FollowBehaviour.cpp
   GoToPointBehaviour.cpp
   NodeMap.cpp
   PathAgent.cpp
   Pathfinding.cpp
-  QuestionNode.cpp
   WanderBehaviour.cpp
   Generating Code...
   AIE_Starter.vcxproj -> C:\GitHub\DecisionTree\Decision Tree - BRobertson\x64\Debug\AIE_Starter.exe
